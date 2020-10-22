@@ -1,5 +1,6 @@
 # DeFi Glossary
-**Aggregator**   Aggregators automatically compare prices or interest rates on various markets and lending protocols. Users can interact with the protocol offering the best price or interest rate directly via the aggregator. No additional steps are required.<br>
+## Aggregator
+Aggregators automatically compare prices or interest rates on various markets and lending protocols. Users can interact with the protocol offering the best price or interest rate directly via the aggregator. No additional steps are required.<br>
 **AMM**   Automatic Market Makers are trading pools that allow market participants to exchange crypto assets in a decentralized manner. Unlike DEXes, AMMs do not use order books or matching engines. Instead they use liquidity pools consisting of two or more tokens. When exchanging tokens on AMMs market participants interact with the different pools rather than with other market participants. The price of each token in the pool is measured relative to the other token(s) in the pool and changes with each interaction.<br>
 **APY**   The Annual Percentage Yield, is a metric used to calculate the return on investment of an asset which takes the effect of compounding interest into account.<br>
 **DeFi**   Decentralized Finance is an umbrella term for financial applications in the broadest sense that run independently as smart contract on blockchains. Prominent use cases include AMMs, DEXes, DeFi derivatives platforms, lending protocols, aggregators as well as robo-advisors.<br>

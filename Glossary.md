@@ -36,6 +36,6 @@ When opening a leveraged position, a trader must deposit a margin with the proto
 ## Pools
 Pools are smart contracts that control funds and with which market participants can interact. They are used by various applications in the DeFi space, including AMMs, lending protocols and vaults in case of robo-advisors.
 ## Protocols
-In the context of DeFi protocols are understood as a set of smart contracts that interact with each other to provide certain functionality to users, e.g. the ability to lend and borrow crypto assets from a lending protocol.
+In the context of DeFi, protocols are understood as a set of smart contracts that interact with each other in order to provide certain functionality to users, e.g. the ability to lend and borrow crypto assets from a lending protocol.
 ## TVL
 TVL stands for total value locked. It is used to measure the value of funds locked into DeFi protocol. While TVL provides an easy-to-understand metric for the size of the DeFi industry, it has been subject to criticism as it does not reflect funds borrowed from lending protocols.
